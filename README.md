@@ -1,4 +1,6 @@
 # Introduction
+Check out a quick demo of the bot's functionality [here](https://youtu.be/Wmx6DVFYd20) (note that the bot in the video is not the completed product)
+
 The sport of Sumo has always enthralled audiences, starting from its humble origins in feudal Japan to its present-day worldwide appeal, where the winners of the international Sumo competition are guaranteed a lifetime of fame, prestige, and renown. Recently, robots have taken to the stage, engaging in Sumo competitions. The art of two burly opponents knocking each other out of the ring has been well-preserved within these machine competitions, with many formidable machines having been created to partake in war. 
 
 # Basic functionality and design
